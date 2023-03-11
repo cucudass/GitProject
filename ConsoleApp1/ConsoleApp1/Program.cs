@@ -10,7 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int count = 10;
             Console.WriteLine("Hello World!");
         }
     }
