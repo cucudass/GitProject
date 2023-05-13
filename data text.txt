@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Item
+=======
+Branch test
+>>>>>>> Stashed changes
